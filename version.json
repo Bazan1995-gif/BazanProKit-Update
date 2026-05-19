@@ -1,5 +1,5 @@
 {
-  "version": "2.0.0",
-  "downloadUrl": "https://github.com/Bazan1995-gif/BazanProKit-Update/releases/download/v2.0.0/BazanProKitV4.zip",
-  "changelog": "النسخة الافتتاحية للأكستينشن - تم إضافة ميزة Bazan Bounce للـ Position, Scale, و Rotation!"
+  "version": 4.10,
+  "zipUrl": "https://github.com/USERNAME/REPONAME/releases/latest/download/update.zip",
+  "notes": "إضافة ميزات جديدة وتحسين الأداء"
 }
